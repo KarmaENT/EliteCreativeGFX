@@ -1,0 +1,20 @@
+{
+  "Evoke Trust": {
+    "colors": ["blue", "white", "grey"],
+    "typefaces": ["sans-serif", "rounded"],
+    "shapes": ["soft curves", "balanced symmetry"],
+    "best_for": ["banks", "AI platforms", "security"]
+  },
+  "Evoke Excitement": {
+    "colors": ["red", "orange", "yellow"],
+    "typefaces": ["bold", "condensed", "display"],
+    "shapes": ["dynamic diagonals", "asymmetry"],
+    "best_for": ["startups", "campaigns", "launches"]
+  },
+  "Evoke Elegance": {
+    "colors": ["black", "gold", "cream"],
+    "typefaces": ["serif", "high-contrast"],
+    "shapes": ["minimalist lines", "symmetric grids"],
+    "best_for": ["luxury brands", "editorial", "art"]
+  }
+}
