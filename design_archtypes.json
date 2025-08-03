@@ -1,0 +1,22 @@
+{
+  "Minimal Futurism": {
+    "keywords": ["negative space", "geometric", "chrome", "holographic", "techno-minimal"],
+    "mood": "austere, clean, forward-thinking"
+  },
+  "Nostalgic Maximalism": {
+    "keywords": ["Y2K", "vaporwave", "stickerbomb", "bold colors", "collage"],
+    "mood": "playful, chaotic, youth-driven"
+  },
+  "Neo-Brutalism": {
+    "keywords": ["bold typography", "flat colors", "UI elements", "data aesthetic"],
+    "mood": "anti-design, raw, disruptive"
+  },
+  "Organic Warmth": {
+    "keywords": ["earth tones", "hand-drawn", "natural textures", "cozy"],
+    "mood": "authentic, calm, human-centric"
+  },
+  "Luxury Editorial": {
+    "keywords": ["serif typography", "monochrome", "white space", "timeless"],
+    "mood": "exclusive, refined, high-status"
+  }
+}
